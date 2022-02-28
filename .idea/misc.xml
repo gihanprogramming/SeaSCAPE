@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_cart.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_cart2.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_foreget_password.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_kids.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_men.xml" value="0.1" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_user_home.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_user_men.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/activity_women.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/fragment_account.xml" value="0.264" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/fragment_cart.xml" value="0.264" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/fragment_men_categories.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/fragment_search.xml" value="0.264" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/layout_cart_item.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/layout/layouy_cloth_item.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/menu/home_bottom.xml" value="0.264" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/menu/user_home_menu.xml" value="0.25" />
+        <entry key="..\:/Users/cmp/Documents/Android Projects/seaSCAPE/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

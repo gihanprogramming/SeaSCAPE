@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041072258163",
+    "project_id": "seascape-3b2c5",
+    "storage_bucket": "seascape-3b2c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041072258163:android:79a7514f1251a9942ffe06",
+        "android_client_info": {
+          "package_name": "com.example.seascape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041072258163-tp0ue7vova9iaeakq59952v6nnkf7q2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seascape",
+            "certificate_hash": "122da98746f4c7ded55277777a4294218be93269"
+          }
+        },
+        {
+          "client_id": "1041072258163-1jroia8bjk01s2jik7iods6spj4l67a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOygNFazTjqb2K2N5qbChDYTpm82-5MtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041072258163-1jroia8bjk01s2jik7iods6spj4l67a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

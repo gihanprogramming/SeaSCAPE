@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#f4b41a"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="175dp"
+        android:layout_height="175dp"
+        android:transitionName="logo_image"
+        android:id="@+id/imageView"
+        android:src="@drawable/logo"/>
+
+    <TextView
+        android:id="@+id/textViewLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sea SCAPE"
+        android:transitionName="logo_title"
+        android:textColor="#143d59"
+        android:textSize="35sp"
+        android:fontFamily="@font/bungee"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FASHION IS THE ARMOR TO SURVIVE"
+        android:textStyle="bold"
+        android:transitionName="logo_desc"
+        android:textColor="#143d59"
+        android:fontFamily="@font/antic"
+        android:gravity="center"
+        android:layout_marginTop="-20dp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:transitionName="logo_desc"
+        android:textColor="#143d59"
+        android:fontFamily="@font/antic"
+        android:text="THE REALITY OF EVERYDAY LIFE"
+        android:gravity="center"/>
+</LinearLayout>
